@@ -15,7 +15,6 @@ use Psr\Http\Message\StreamFactoryInterface;
 use Psr\Http\Server\MiddlewareInterface;
 use Psr\Http\Server\RequestHandlerInterface;
 
-use Slim\Psr7\Factory\StreamFactory;
 use function in_array;
 use function is_array;
 use function is_numeric;
